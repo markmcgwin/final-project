@@ -15,7 +15,7 @@ The board will be a typical Connect Four board, with an X axis of 6 rows across,
 
 The border of the game board will be the typical blue.  The spaces will be white and the pieces will be red and yellow.
 
-The board will be a grid of A-F on the X axis, and 1-7 on the Y axis.
+The board will be a grid of A-F on the X axis, and 1-6 on the Y axis.
 
 After a Player places a piece, the opponent will have the ability to place their piece above theirs.
 
